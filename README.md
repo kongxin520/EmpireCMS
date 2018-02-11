@@ -1,2 +1,0 @@
-# EmpireCMS
-EmpireCMS Bug
